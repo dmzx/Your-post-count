@@ -1,0 +1,11 @@
+.small-icon .icon-search-self {
+	display: none; 
+}
+
+.separator {
+	display: none; 
+}
+
+.icon-search-self-count	{ 
+	background-image: url("./images/icon_topic_latest.gif"); 
+}
