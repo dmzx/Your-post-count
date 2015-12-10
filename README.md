@@ -1,5 +1,7 @@
 # Your post count extension
 
+[![Build Status](https://travis-ci.org/dmzx/Your-post-count.svg?branch=master)](https://travis-ci.org/dmzx/Your-post-count)
+
 ## Install
 
 1. Download the latest release.

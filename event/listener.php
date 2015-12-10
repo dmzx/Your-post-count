@@ -22,6 +22,15 @@ class listener implements EventSubscriberInterface
 	/** @var \phpbb\db\driver\driver_interface */
 	protected $db;
 
+	/**
+	* Constructor
+	*
+	* @param \phpbb\template\template			$template
+	* @param \phpbb\user						$user
+	* @param \phpbb\db\driver\driver_interface	$db
+	*
+	*/
+
 	public function __construct(\phpbb\template\template $template, \phpbb\user $user, \phpbb\db\driver\driver_interface $db)
 	{
 		$this->template = $template;
